@@ -1,7 +1,7 @@
 # 💰 Personal Finance Tracker
 
 ## 📝 Deskripsi Singkat
-Personal Finance Tracker adalah sebuah aplikasi sederhana yang membantu user dalam mencatat dan mengelola keuangan pribadinya. Aplikasi ini memungkinkan user untuk mencatat income dan expense, melihat saldo terkini, dan menganalisis income/expense berdasarkan laporan dan statistik.
+Personal Finance Tracker adalah sebuah program sederhana yang membantu user dalam mencatat dan mengelola keuangan pribadinya. Program ini memungkinkan user untuk mencatat keuangan(income dan expense), melihat saldo terkini, dan menganalisis income/expense berdasarkan laporan dan statistik.
 
 ## 🎯 Tujuan Project
 Project ini saya buat sebagai latihan untuk menguji kemampuan dan pemahaman saya dalam memakai:
@@ -41,7 +41,7 @@ python main.py pada terminal
 Jika anda tidak memiliki VSCode anda bisa memakai Online Compiler, seperti [Programiz](https://www.programiz.com/python-programming/online-compiler/).
 
 ## 💡 Cara Kerja
-Aplikasi ini bekerja berdasarkan sistem menu utama yang terus-menerus berulang (looping) sampai user memilih opsi keluar. Berikut adalah penjelasan detail alur kerjanya:
+Program ini bekerja berdasarkan sistem menu utama yang terus-menerus berulang (looping) sampai user memilih opsi keluar. Berikut adalah penjelasan detail alur kerjanya:
 Alur Umum Program
 
 1. Menampilkan Menu - Program menampilkan 5 opsi pilihan ke user
